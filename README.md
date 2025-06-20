@@ -1,2 +1,3 @@
 # cryptocoin-presale-site
-Token $CRYP | Sitio Oficial Preventa de CryptoCoin
+
+Sitio Oficial de la Preventa de CryptoCoin ($CRYP).
